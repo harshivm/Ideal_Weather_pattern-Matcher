@@ -216,9 +216,4 @@ Possible improvements include:
 - Real-time weather data processing
 - Interactive dashboards for data visualization
 
----
 
-
-# License
-
-This project is intended for educational purposes.
