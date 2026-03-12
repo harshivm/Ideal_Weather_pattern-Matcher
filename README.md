@@ -218,12 +218,6 @@ Possible improvements include:
 
 ---
 
-# Author
-
-Student Name  
-Master's Program in Computer Science
-
----
 
 # License
 
